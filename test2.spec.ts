@@ -20,5 +20,8 @@ const num5= 8;
 
 //substract
 const substract = num5 - num4;
-console.log('substarction result', substract)
+console.log('substarction result', subtract)
+
+//multiply
+const mul = num1 * num2
 

@@ -13,3 +13,6 @@ const sumTwoNum=num1+num4;
 
 // display the sum
 console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
+
+//substraction
+const substract= num4-num1

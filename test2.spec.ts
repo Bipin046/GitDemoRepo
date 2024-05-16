@@ -8,6 +8,7 @@ const num4= 8;
 
 // add two numbers
 const sum = num1 + num2 + num3;
+
 const sumTwoNum=num1+num4;
 
 // display the sum

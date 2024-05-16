@@ -9,3 +9,10 @@ const sum = num1 + num2;
 
 // display the sum
 console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
+
+const num4= 6;
+const num5= 8;
+
+//substract
+const substract = num5 - num4;
+console.log('substarction result', substract)

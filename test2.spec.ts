@@ -1,4 +1,5 @@
 console.log("test2")
+console.log("test3")
 
 const num1 = 5;
 const num2 = 3;

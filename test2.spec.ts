@@ -17,3 +17,5 @@ console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
 //multiply
 const mul= num1*num2;
 
+//substraction
+const substract= num4-num1

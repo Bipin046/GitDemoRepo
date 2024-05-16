@@ -22,3 +22,5 @@ const num5= 8;
 const substract = num5 - num4;
 console.log('substarction result', substract)
 
+//divide
+const divide = num5/num4;
